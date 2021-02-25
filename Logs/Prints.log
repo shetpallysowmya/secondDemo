@@ -1,0 +1,9 @@
+04:10:27:386 [main] 15   evel 15ogger - Execution started
+04:10:34:924 [main] 19   evel 19ogger - Chrome browser got launched
+04:10:35:049 [main] 22   evel 22ogger - Chrome browser has maximized
+04:10:45:203 [main] 25   evel 25ogger - Navigated to Omayo Application
+04:10:46:088 [main] 27   evel 27ogger - Clicked on Compendium Link
+04:10:48:734 [main] 29   evel 29ogger - Navigated back to Omayo Home
+04:10:49:294 [main] 31   evel 31ogger - Navigated forward to compendium page
+04:10:49:306 [main] 33   evel 33ogger - Correct page is displayed
+04:10:49:476 [main] 39   evel 39ogger - Driver got closed
